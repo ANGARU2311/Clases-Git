@@ -1,0 +1,9 @@
+Configuración
+ 
+ git config --global user.name "Nombre"
+ git config --global user.email correo@mail.com
+ git config --global core.editor "code --wait"
+ git config --global core.autocrlf true
+ git config --global init.defaultBranch main
+
+ Obs= el editor no me quiere funcionar
