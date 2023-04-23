@@ -1,0 +1,4 @@
+1.- Primeras lineas de este achivo.
+    Se va hacer algunas comparaciones y condiciones en el rama secundaria y despues en la rama principal para ver
+    los conflictos que eso genera.
+2.- se ha creado esta informacion en la rama main_seguro_modificaciones.
