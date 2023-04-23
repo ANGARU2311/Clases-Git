@@ -13,6 +13,7 @@ Configuración
 git init: crear un repositorio.
 git add: agregar un archivo a staging.
 git commit -m “mensaje”: guardar el archivo en git con un mensaje.
+git commit -am “mensaje”: agrega y guardar el archivo en git con un mensaje. (es poco recomendado)
 git branch: crear una nueva rama.
 git checkout: moverse entre ramas.
 git merge: tiene dos usos. Uno es la fusión de ramas, funcionando como un commit en la rama actual, trayendo la rama indicada. Su otro uso es guardar los cambios de un servidor remoto en nuestro directorio.
